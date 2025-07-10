@@ -16,4 +16,4 @@
 
 对于用户来说，选择安全可靠的平台是至关重要的。优质平台通常使用HTTPS加密协议，确保用户数据的安全。同时，这些平台的版权声明清晰，避免了恶意广告和弹窗的干扰，提供一个安全的观看环境。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link]( https://github.com/tsk543210/xxriben14)</span>
